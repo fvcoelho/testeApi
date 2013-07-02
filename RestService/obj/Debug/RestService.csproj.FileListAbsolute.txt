@@ -1,0 +1,7 @@
+C:\Users\fvcoelho\Desktop\TesteWallmart\RestService\bin\RestService.dll
+C:\Users\fvcoelho\Desktop\TesteWallmart\RestService\bin\RestService.pdb
+C:\Users\fvcoelho\Desktop\TesteWallmart\RestService\obj\Debug\RestService.dll
+C:\Users\fvcoelho\Desktop\TesteWallmart\RestService\obj\Debug\RestService.pdb
+C:\Users\fvcoelho\Desktop\TesteWallmart\RestService\bin\Wallmart.Database.dll
+C:\Users\fvcoelho\Desktop\TesteWallmart\RestService\bin\Wallmart.Database.pdb
+C:\Users\fvcoelho\Desktop\TesteWallmart\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache

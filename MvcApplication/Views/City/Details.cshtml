@@ -1,0 +1,25 @@
+﻿@model Wallmart.Database.City
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>City</legend>
+
+    <div class="display-label">name</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.name)
+    </div>
+
+    <div class="display-label">isCapital</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.isCapital)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.cityId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

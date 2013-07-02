@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<City xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cityId>17</cityId>
+  <state>
+    <stateId>4</stateId>
+    <name>goias</name>
+    <country>Brasil</country>
+    <abbreviation>GO</abbreviation>
+    <region>Sul</region>
+  </state>
+  <name>Santos</name>
+  <isCapital>true</isCapital>
+</City>

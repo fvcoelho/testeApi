@@ -1,0 +1,9 @@
+C:\Users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\MvcApplication1\bin\EntityFramework.dll
+C:\Users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\MvcApplication1\bin\EntityFramework.xml
+C:\Users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\Users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\MvcApplication1\bin\Wallmart.Database.dll
+C:\Users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\MvcApplication1\bin\Wallmart.Database.pdb

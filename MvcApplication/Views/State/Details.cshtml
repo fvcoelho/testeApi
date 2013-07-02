@@ -1,0 +1,35 @@
+﻿@model Wallmart.Database.State
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>State</legend>
+
+    <div class="display-label">name</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.name)
+    </div>
+
+    <div class="display-label">country</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.country)
+    </div>
+
+    <div class="display-label">abbreviation</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.abbreviation)
+    </div>
+
+    <div class="display-label">region</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.region)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.stateId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

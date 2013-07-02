@@ -1,0 +1,14 @@
+c:\users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\Wallmart.Database\bin\Debug\Wallmart.Database.dll
+c:\users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\Wallmart.Database\bin\Debug\Wallmart.Database.pdb
+c:\users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\Wallmart.Database\obj\Debug\Wallmart.Database.dll
+c:\users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\Wallmart.Database\obj\Debug\Wallmart.Database.pdb
+c:\users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\Wallmart.Database\obj\Debug\Wallmart.Database.Scripts.State.resources
+c:\users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\Wallmart.Database\obj\Debug\Wallmart.Database.csproj.GenerateResource.Cache
+C:\Users\fvcoelho\documents\visual studio 2010\Projects\Wallmart.Database\Wallmart.Database\obj\Debug\Wallmart.Database.Scripts.City.resources
+C:\Users\fvcoelho\Desktop\TesteWallmart\Wallmart.Database\bin\Debug\Wallmart.Database.dll
+C:\Users\fvcoelho\Desktop\TesteWallmart\Wallmart.Database\bin\Debug\Wallmart.Database.pdb
+C:\Users\fvcoelho\Desktop\TesteWallmart\Wallmart.Database\obj\Debug\Wallmart.Database.Scripts.City.resources
+C:\Users\fvcoelho\Desktop\TesteWallmart\Wallmart.Database\obj\Debug\Wallmart.Database.Scripts.State.resources
+C:\Users\fvcoelho\Desktop\TesteWallmart\Wallmart.Database\obj\Debug\Wallmart.Database.csproj.GenerateResource.Cache
+C:\Users\fvcoelho\Desktop\TesteWallmart\Wallmart.Database\obj\Debug\Wallmart.Database.dll
+C:\Users\fvcoelho\Desktop\TesteWallmart\Wallmart.Database\obj\Debug\Wallmart.Database.pdb
